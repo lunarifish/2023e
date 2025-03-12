@@ -1,0 +1,3 @@
+[submodule "stm32/librm"]
+	path = stm32/librm
+	url = https://github.com/XDU-IRobot/librm.git
