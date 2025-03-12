@@ -1,0 +1,25 @@
+
+OpenDocument="dji_motor.hpp", FilePath="C:/Users/lenovo/Desktop/2023e_stm32/stm32/librm/src/librm/device/actuator/dji_motor.hpp", Line=165
+OpenDocument="fdcan.cc", FilePath="C:/Users/lenovo/Desktop/2023e_stm32/stm32/librm/src/librm/hal/stm32/fdcan.cc", Line=104
+OpenDocument="exception.h", FilePath="C:/Users/lenovo/Desktop/2023e_stm32/stm32/librm/src/librm/core/exception.h", Line=9
+OpenDocument="main.cc", FilePath="C:/Users/lenovo/Desktop/2023e_stm32/stm32/src/main.cc", Line=0
+OpenDocument="main.c", FilePath="C:/Users/lenovo/Desktop/2023e_stm32/stm32/Core/Src/main.c", Line=85
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=1, w=300, h=241, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=2, w=300, h=530, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=553, h=558, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=300, h=138, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=1, w=553, h=352, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=1, y=0, w=867, h=510, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=2, y=0, w=881, h=510, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=1, CodePaneShown=1, PinCursor="Cursor Movable", TimePerDiv="1 ns / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="686;0", PowerGraphDrawAsPoints=0, PowerGraphLegendShown=1, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="654;-69", CodeGraphLegendShown=1, CodeGraphLegendPosition="670;0"
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=810, h=510, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[319;100;100;100;1358]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time"], ColWidths=[100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[118;100;100;100;100;100;110;126;126]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[100;144;294]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[222;217;100;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[26;26;26;26]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Frame";"Source";"PC";"Return Address";"Stack Used"], ColWidths=[110;154;646;104;214;100]
+WatchedExpression="yaw_motor", RefreshRate=1, Window=Watched Data 1
